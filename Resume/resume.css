@@ -1,0 +1,61 @@
+html {
+    background: linear-gradient(to right, #44CF44, #76E3BD, #A972ED, #EBDF78);
+}
+
+body {
+    margin: 5px;
+    border: 1px solid;
+    padding: 15px;
+    color: black;
+}
+
+table, th, tr, td{
+    border: 1px solid;
+    padding: 8px;
+    width: 500px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#number {
+    position: relative;
+    bottom: 9px;
+    padding: 5px;
+}
+
+#emaillogo {
+    position: relative;
+    left: 10px;
+}
+
+#email {
+    padding: 5px;
+    position: relative;
+    left: 10px;
+    bottom: 10px;
+}
+
+header {
+    padding: 10px;
+}
+
+#angel {
+    width: 100px;
+    height: 130px;
+    float: left;
+}
+
+h3 {
+    position: relative;
+    left: 25px;
+    bottom: 5px;
+}
+
+h1 {
+    position: relative;
+    right: 600px;
+}
+
+hr {
+    border: 0.5px solid black;
+}
